@@ -46,11 +46,3 @@ python aligner.py --genome <chemin/vers/genome.fasta> --reads <chemin/vers/reads
 
 -k : (optionnel) Taille des k-mers utilisés (par défaut : 11).
 
-
-### Conseils
-- Remplacez les liens dans la section "Données disponibles" par les URL réelles où les données peuvent être téléchargées.
-- Ajoutez des instructions spécifiques sur la manière de lancer les scripts ou d'utiliser le code si nécessaire.
-- Vous pouvez ajouter des sections supplémentaires si vous avez des informations ou des fonctionnalités supplémentaires à inclure. 
-
-N'hésitez pas à personnaliser ce modèle en fonction de vos besoins et du style de votre projet !
-
