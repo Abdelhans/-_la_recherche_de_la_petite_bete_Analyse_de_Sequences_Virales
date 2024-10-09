@@ -39,8 +39,11 @@ python aligner.py --genome <chemin/vers/genome.fasta> --reads <chemin/vers/reads
 
 ## Paramètres
 --genome : Chemin vers le fichier FASTA contenant le génome de référence.
+
 --reads : Chemin vers le fichier FASTQ.gz contenant les reads à aligner.
+
 --out : Fichier de sortie pour les résultats de l'alignement.
+
 -k : (optionnel) Taille des k-mers utilisés (par défaut : 11).
 
 
