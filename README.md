@@ -11,10 +11,10 @@ Le projet "À la recherche de la petite bête" vise à identifier un pathogène 
 
 ## Données disponibles
 Les données de séquençage et les séquences de référence peuvent être téléchargées à partir des liens suivants :
-- Grippe A : [lien](#)
-- VIH-1 : [lien](#)
-- Rhinovirus : [lien](#)
-- Alpha-coronavirus : [lien](#)
+- Grippe A : [https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Influenza_A_virus/latest_assembly_versions/GCF_000851145.1_ViralMultiSegProj14892/](#)
+- VIH-1 : [https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Human_immunodeficiency_virus_1/latest_assembly_versions/GCF_000864765.1_ViralProj15476/GCF_000864765.1_ViralProj15476_cds_from_genomic.fna.gz](#)
+- Rhinovirus : [https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Rhinovirus_A/latest_assembly_versions/GCF_000862245.1_ViralProj15330/GCF_000862245.1_ViralProj15330_cds_from_genomic.fna.gz](#)
+- Alpha-coronavirus : [https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Alphacoronavirus_1/latest_assembly_versions/GCF_000856025.1_ViralProj15097/GCF_000856025.1_ViralProj15097_cds_from_genomic.fna.gz](#)
 
 ## Méthodologie
 1. **Extraction de k-mers** : Les séquences sont analysées pour extraire des k-mers, qui sont ensuite utilisés pour l'alignement.
